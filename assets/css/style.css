@@ -121,6 +121,8 @@ input[type="color"],
     border: 1px solid rgba(0, 0, 0, 0.08);
     font-size: 16px;
     height: 45px;
+color:White;
+	
 }
 .form-control:focus {
     border-color: #fff;
