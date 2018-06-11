@@ -1,0 +1,101 @@
+would like to see a first draft of a template by Tuesday next week.
+
+ 
+
+My thoughts on what the report should have:
+
+ 
+
+-          Users
+
+o   Total registered users
+
+o   Unique per day for last week
+
+o   Active cumulative over last week
+
+o   New users added in last week
+
+o   Profile of active users – circle, NHQ, network, business etc.
+
+ 
+
+-          Size of platform
+
+o   Number of servers – types of nodes and counts etc.
+
+o   Number of VMs etc.
+
+ 
+
+-          Utilization statistics
+
+o   Memory utilization (hourly trend if relevant or max during the day for last week)
+
+o   Drop wizard threads etc.
+
+ 
+
+-          Job statistics
+
+o   Total daily jobs
+
+§  Successful/unsuccessful
+
+o   Total weekly jobs
+
+§  Successful/unsuccessful
+
+ 
+
+-          Platform Availability
+
+o   % availability for last week
+
+o   Number of Sev1, Sev2 incidents…MTTR for those incidents
+
+ 
+
+-          Data availability
+
+o   Out of the 40 or more ingestion sources, what % of total data was ingested last week successfully
+
+ 
+
+-          Open defects
+
+o   Total open as on date
+
+o   Closed last week – some trends for last week
+
+ 
+
+-          Application statistics
+
+o   Module usage stats
+
+§  Which report gets downloaded the most?
+
+§  How many total reports are generated/downloaded per day, and cumulative for last week
+
+§  How many WOs got executed through JCP in last week
+
+§  Which module gets used the most – do we have stats on clicks etc. by module
+
+ 
+
+o   Module performance
+
+§  Time taken to generate/download a report
+
+ 
+
+-          We then get to requirements
+
+§  What got delivered last week – fixes, new requirements
+
+§  What is the plan for next 30 days
+
+ 
+
+ 
